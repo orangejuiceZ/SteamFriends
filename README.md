@@ -5,7 +5,6 @@
 ## Steam好友列表
 | Avatar                                                                            | Name         | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/6889e542266ff1eca9c32d7f405a723a0e19f756.jpg) | 非常欢乐         | [76561199188690512](https://steamcommunity.com/profiles/76561199188690512/) | ❌           | 2025-03-21 09:09:30 | 2025-06-16 08:59:54 |          |
 | ![](https://avatars.steamstatic.com/af45dd6272007445935ba805d988da67ac8561c4.jpg) | 嫦娥           | [76561198810111022](https://steamcommunity.com/profiles/76561198810111022/) | ✅           | 2021-06-26 16:17:39 |                     |          |
 | ![](https://avatars.steamstatic.com/d72c8ef0f183faf564b9407572d51751794acd15.jpg) | 隔壁翠霜         | [76561198819019472](https://steamcommunity.com/profiles/76561198819019472/) | ✅           | 2024-08-14 21:46:52 |                     |          |
 | ![](https://avatars.steamstatic.com/fb368f4e54e24ead377c2da716f80234e9b60f2a.jpg) | 三振出局.        | [76561198951645584](https://steamcommunity.com/profiles/76561198951645584/) | ✅           | 2024-08-14 22:02:02 |                     |          |
